@@ -87,3 +87,5 @@ Além disso, aprendi a configurar variáveis de ambiente pelo VSCode, com auxíl
     ]
 }
 ```
+
+Endereço padrão do OpenAPI UI - http://localhost:8080/swagger-ui/index.html#/

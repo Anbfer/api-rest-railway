@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://${HOST}:${PORT}/${DATABASE}
+    username: ${PGUSER}
+    password: ${PGPASSWORD}
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
